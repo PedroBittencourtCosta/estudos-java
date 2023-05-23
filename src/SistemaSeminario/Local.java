@@ -16,4 +16,7 @@ public class Local {
         this.address = address;
     }
 
+    public void deuBom() {
+        System.out.println("deu bom ");
+    }
 }
